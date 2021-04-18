@@ -20,5 +20,5 @@ apt update && apt install git python2 -y && git clone https://github.com/nfs-tec
 
 ## [+] Find Me on :
 [![Github](https://img.shields.io/badge/Github-NFS--TECH--BD-green?style=for-the-badge&logo=github)](https://github.com/nfs-tech-bd)
-[![TELEGRAM](https://img.shields.io/badge/IG-%40nafis.fuad-red?style=for-the-badge&logo=telegram)](https://t.me/Nafisfuad1)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-%40nafis.fuad-red?style=for-the-badge&logo=telegram)](https://t.me/Nafisfuad1)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/nafis.fuad.904)
