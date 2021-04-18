@@ -3,6 +3,8 @@ Encrypt All Your Python Script Easily.
 Easy For Beginners.
 <p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+
 ## ScreenShot
 
 <img src='https://raw.githubusercontent.com/nfs-tech-bd/PY-ENCODE/main/Screenshot_2021-04-18-10-53-02-714_com.termux.png'>
@@ -19,6 +21,7 @@ Easy For Beginners.
 ```
 apt update && apt install git python2 -y && git clone https://github.com/nfs-tech-bd/PY-ENCODE && cd PY-ENCODE && python2 PY-ENCODE.py
 ```
+## NO USERNAME & PASSWORD REQUIRED 🐥
 
 ## [+] Find Me on :
 [![Github](https://img.shields.io/badge/Github-NFS--TECH--BD-green?style=for-the-badge&logo=github)](https://github.com/nfs-tech-bd)
